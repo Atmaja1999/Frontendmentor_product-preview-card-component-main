@@ -11,10 +11,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+  
 
 
 ## Overview
@@ -28,12 +25,14 @@ Users should be able to:
 
 ### Screenshot
 
+<img width="1142" height="568" alt="image" src="https://github.com/user-attachments/assets/78ac65e8-4ba5-4d81-871e-67bc62cfc272" />
+
+<img width="241" height="630" alt="image" src="https://github.com/user-attachments/assets/de2ad632-767f-47f1-bb0d-1e994a62b1c0" />
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/Atmaja1999/Frontendmentor_Practice_Projects/tree/main/product-preview-card-component-main)
 
 ## My process
 
@@ -43,13 +42,18 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 
+
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+- How to use <picture> to load different images for mobile and desktop.
+- How to make layouts responsive using @media queries.
+- How to use Flexbox to perfectly center icon + text inside a button.
+- How to structure clean HTML + CSS for a product card.
+  
+
+  
+  
 
 
-## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 
