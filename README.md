@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/Atmaja1999/Frontendmentor_Practice_Projects/tree/main/product-preview-card-component-main)
+- Solution URL: [Solution](https://github.com/Atmaja1999/Frontendmentor_product-preview-card-component-main/tree/main)
 
 ## My process
 
